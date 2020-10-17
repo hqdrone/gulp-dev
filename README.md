@@ -8,7 +8,7 @@ Install:
 
 ---
 
-Now your have Browser Sync, Pug, Stylus, Autoprefixer, jQuery, Bootstrap Reboot
+Now you have Browser Sync, Pug, Stylus, Autoprefixer, jQuery, Bootstrap Reboot
 
 Folder src/ for PSD templates, JPG previews etc.
 
